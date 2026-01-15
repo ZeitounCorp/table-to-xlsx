@@ -23,6 +23,8 @@ npm install @nodewave/table-to-xlsx
 
 ## Quick Start
 
+- [dev.to article](https://dev.to/rizqyep/easily-create-an-xlsx-output-by-using-only-html-table-component-2iak)
+
 ### **Style 1: Default Import (Class-based)**
 ```typescript
 import TableToXlsx from '@nodewave/table-to-xlsx';
